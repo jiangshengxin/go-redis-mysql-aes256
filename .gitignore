@@ -1,0 +1,12 @@
+/node_modules
+/public/storage
+/public/upload
+/vendor
+/.idea
+/storage
+Homestead.json
+Homestead.yaml
+.env
+dump.rdb
+main.exe
+main
